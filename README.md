@@ -23,3 +23,6 @@ sh run.sh
 
 You can set the parameter 'is_p' to False and then save the model.
 
+
+References: "Graph Prompt Clustering", TPAMI2025 Written by: Mansheng Chen, chenmsh27@mail2.sysu.edu.cn 2025-03-18
+
